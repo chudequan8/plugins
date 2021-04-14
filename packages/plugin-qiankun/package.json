@@ -17,7 +17,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/umijs/plugins"
+    "url": "https://github.com/chudequan8/plugins"
   },
   "keywords": [
     "umi"
