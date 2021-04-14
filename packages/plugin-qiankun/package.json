@@ -1,5 +1,5 @@
 {
-  "name": "@umijs/plugin-qiankun",
+  "name": "@cdq/plugin-qiankun",
   "version": "2.24.1",
   "description": "umi plugin for qiankun",
   "main": "lib/index.js",
@@ -29,8 +29,6 @@
     }
   ],
   "license": "MIT",
-  "bugs": "http://github.com/umijs/plugins/issues",
-  "homepage": "https://github.com/umijs/plugins/tree/master/packages/plugin-qiankun#readme",
   "peerDependencies": {
     "react": "16",
     "react-dom": "16",
@@ -45,7 +43,7 @@
     "address": "^1.1.2",
     "lodash": "^4.17.15",
     "path-to-regexp": "^1.7.0",
-    "qiankun": "^2.2.1"
+    "qiankun": "^2.4.0"
   },
   "devDependencies": {
     "mockjs": "^1.0.1-beta3",
